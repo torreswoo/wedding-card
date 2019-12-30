@@ -8,8 +8,8 @@
 
 ## 예식정보
 
-* 날짜 : 2019년 5월 18일 14시 30분
-* 장소 : 부산광역시 해운대구 센텀시티 센텀사이언스파크 23층
-* 청첩장 url : https://andersonchoi.github.io/wedding-card/
+* 날짜 : 2020년 2월 8일 16시 10분
+* 장소 : 송파구 문정동 더 컨벤션
+* 청첩장 url : https://torreswoo.github.io/wedding-card/
 
 ## 축하의 말
