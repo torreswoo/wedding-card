@@ -4,6 +4,8 @@
  * Copyright 2011-2018 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+
+
 :root {
     --blue: #007bff;
     --indigo: #6610f2;
@@ -35,6 +37,116 @@
     --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
+.wrap_controllers {
+    display: none;
+}
+
+#bg_rose {
+    font-size: 20px;
+    font-weight: normal;
+    color: #333;
+    font-family: 'Nanum Myeongjo', serif;
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+    -webkit-margin-start: 0;
+    -webkit-margin-end: 0;
+    -webkit-padding-start: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background: url('https://www.itscard.co.kr/mobile/m/img/type3/bg_new_rose2.jpg') 0 0 repeat-y;
+    background-size: 100%;
+    display: block
+}
+
+#tab2 {
+    font-size: 20px;
+    font-weight: normal;
+    color: #333;
+    font-family: 'Nanum Myeongjo', serif;
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+    -webkit-margin-start: 0;
+    -webkit-margin-end: 0;
+    -webkit-padding-start: 0;
+    margin: 0;
+    padding: 0;
+    display: block
+}
+
+.section2 {
+    font-size: 20px;
+    font-weight: normal;
+    color: #333;
+    font-family: 'Nanum Myeongjo', serif;
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+    -webkit-margin-start: 0;
+    -webkit-margin-end: 0;
+    -webkit-padding-start: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    display: block
+}
+
+.section2_bg {
+    font-size: 20px;
+    font-weight: normal;
+    color: #333;
+    font-family: 'Nanum Myeongjo', serif;
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+    -webkit-margin-start: 0;
+    -webkit-margin-end: 0;
+    -webkit-padding-start: 0;
+    border: 0;
+    vertical-align: top;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    z-index: -1;
+    display: block
+}
+
+.greeting_txt {
+    font-weight: normal;
+    font-family: 'Nanum Myeongjo', serif;
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+    -webkit-margin-start: 0;
+    -webkit-margin-end: 0;
+    -webkit-padding-start: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background: url("https://www.itscard.co.kr/mobile/m/img/type3/typ3_mainbg2_3.png") 0 0 repeat-y;
+    background-size: 100%;
+    color: #fff;
+    text-align: center;
+    font-size: 25px;
+    line-height: 170%;
+    display: block
+}
+.txt {
+    font-weight: normal;
+    color: #fff;
+    text-align: center;
+    font-size: 25px;
+    line-height: 170%;
+    font-family: 'Nanum Myeongjo', serif;
+    padding: 0;
+    width: 73%;
+    margin: 0 auto;
+    overflow: hidden;
+    white-space: pre-wrap;
+}
+.name {
+    margin-bottom: 0rem;
+
+}
 *,
 *::before,
 *::after {
