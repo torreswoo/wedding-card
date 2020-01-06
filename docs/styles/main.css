@@ -126,7 +126,7 @@
     background-size: 100%;
     color: #fff;
     text-align: center;
-    font-size: 25px;
+    font-size: 20px;
     line-height: 170%;
     display: block
 }
@@ -134,9 +134,9 @@
     font-weight: normal;
     color: #fff;
     text-align: center;
-    font-size: 25px;
+    font-size: 20px;
     line-height: 170%;
-    font-family: 'Nanum Myeongjo', serif;
+    font-family: 'Noto Serif KR', serif;
     padding: 0;
     width: 73%;
     margin: 0 auto;
