@@ -126,7 +126,7 @@
     background-size: 100%;
     color: #fff;
     text-align: center;
-    font-size: 20px;
+    font-size: 15px;
     line-height: 170%;
     display: block
 }
@@ -134,7 +134,7 @@
     font-weight: normal;
     color: #fff;
     text-align: center;
-    font-size: 20px;
+    font-size: 14px;
     line-height: 170%;
     font-family: 'Noto Serif KR', serif;
     padding: 0;
@@ -10143,7 +10143,7 @@ body {
 }
 
 .ww-section {
-    padding: 100px 0;
+    padding: 50px 0;
 }
 
 .btn-primary {
